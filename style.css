@@ -1,0 +1,12 @@
+body {
+    background-color: #f8f9fa;
+}
+
+#pokemon-gallery .card {
+    margin-bottom: 20px;
+}
+
+#pokemon-gallery .card img {
+    max-height: 200px;
+    object-fit: cover;
+}
